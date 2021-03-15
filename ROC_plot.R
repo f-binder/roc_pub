@@ -17,4 +17,14 @@ glimpse(data)
     theme_bw(base_size = 16)
   
 # ROC Curves ------------------
+  
+ # Plot parameters
+ 
+ base_sz <- 16 # base text size.
+  
+  
+# Save plot -------------------
+  # dir.create("output")
+  
+  
 
