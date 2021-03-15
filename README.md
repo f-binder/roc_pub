@@ -2,7 +2,7 @@
 
 This repository provides code for publication-quality ROC curves. It is built on the `ggplot` and `ggROC` packages.
 
-The plots it renders resemble the ones used in this paper (link).
+The plots it renders resemble the ones used in this paper (_pending: link to proof-of-concept deep learning implementation, chest x-rays_).
 
 (img link)
 
