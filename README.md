@@ -1,4 +1,4 @@
-# Publication-Quality ROC Curves
+# Publication-Ready ROC Curves
 
 This repository provides code for publication-quality ROC curves. It is built on the `ggplot` and `ggROC` packages.
 
